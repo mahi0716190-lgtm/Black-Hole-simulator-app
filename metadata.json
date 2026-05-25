@@ -1,0 +1,6 @@
+{
+  "name": "Black Hole Simulator",
+  "description": "An interactive, high-fidelity galactic laboratory where users can orbit, sling, and incinerate terrestrial or fictional sci-fi planets into a massive fully-animated black hole with cinematic gravitational distortion, spaghetti stretching, and debris fragmentation physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
