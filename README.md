@@ -1,21 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌌 Black Hole AI Simulator
 
-# Run and deploy your AI Studio app
+A futuristic black hole simulation app featuring sci-fi inspired visuals, cosmic effects, and interactive space-themed controls.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
+- Black hole simulation
+- Event horizon visualization
+- Futuristic space UI
+- Interactive controls
+- Cosmic animation effects
+- AI-assisted development workflow
 
-View your app in AI Studio: https://ai.studio/apps/2f651017-f3c5-48f2-a16b-1d1d587de0db
+## 🔭 Future Updates
+- Real gravity calculations
+- Orbit mechanics simulation
+- Time dilation effects
+- Advanced space physics
+- Improved animations
+- Educational simulation mode
 
-## Run Locally
+## 🛠️ Built With
+- Google AI Studio
+- Android Studio
+- GitHub
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+## 📱 Status
+Prototype version complete 🚀
 
-
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+## 📚 About
+This project was created as part of my learning journey in app development, simulations, and futuristic UI design.
